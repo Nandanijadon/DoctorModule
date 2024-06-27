@@ -339,7 +339,7 @@ export default function Home() {
       </div>
 
 
-        </div>
+        </div> 
         <div className="drawer-side">
           <label htmlFor="my-drawer" aria-label="close sidebar" className="drawer-overlay"></label>
           <ul className="menu p-4 w-60 min-h-full text-base-content text-white " style={{backgroundColor:'#0f172a'}}>
